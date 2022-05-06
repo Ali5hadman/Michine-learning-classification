@@ -1,2 +1,2 @@
 # Michine-learning-classification
-Used different Machine Learning algorithm to predict user satisfaction from past data using classification and regression methods.
+Used different Machine Learning algorithm to predict user satisfaction from past data using classification methods.
